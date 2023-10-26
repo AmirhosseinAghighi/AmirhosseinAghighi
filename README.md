@@ -1,26 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amirhossein Aghighi</h1>
-<h3 align="center">Full-stack web developer.</h3>
+<h3 align="center">Full-stack developer.</h3>
 
 - 🔭 I’m currently working on **new website for streamers ( new tools )**
 
-- 🌱 I’m currently learning **Artificial
-	
-
-
-    
-
-
-	
-
-			
-
-				
-				
-			
-
-	
-
-	 intelligence**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Js(nodejs, vue, discordjs, ...), Lua (Fivem), python**
 
