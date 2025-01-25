@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amirhossein Aghighi</h1>
 <h3 align="center">Full-stack developer.</h3>
 
-- 🔭 I’m currently working on **new website for streamers ( new tools )**
+- 🔭 I’m currently working on **Quiz Duck**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **Js(nodejs, react, vue, discordjs, ...), Lua**
 
